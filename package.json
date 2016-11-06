@@ -1,0 +1,22 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Yuhao's portfolio front page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuhao-nyc/portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuhao-nyc/portfolio/issues"
+  },
+  "homepage": "https://github.com/Yuhao-nyc/portfolio#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
