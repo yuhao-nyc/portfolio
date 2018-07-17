@@ -1,11 +1,13 @@
 /* your styles go here */
+
 .modal-dialog {
   width: auto !important;
   max-width: 90% !important;
 }
 
 .box img {
-  border: 5px solid #ddd;
+  border: 3px solid #ddd;
+  border-radius: 5px;
   height: 208px;
 }
 
@@ -16,4 +18,8 @@
 
 .project-links a:hover {
   color: #94999c;
+}
+
+.project-links a {
+  text-decoration: underline
 }
