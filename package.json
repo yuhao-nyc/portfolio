@@ -4,7 +4,8 @@
   "description": "Yuhao's portfolio front page",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/Yuhao-nyc/portfolio#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.16.4"
   }
 }
