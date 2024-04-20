@@ -12,8 +12,8 @@
 }
 
 .project-links {
-  text-transform: uppercase;
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .project-links a:hover {
@@ -22,4 +22,8 @@
 
 .project-links a {
   text-decoration: underline
+}
+
+hr {
+  color: #94999c !important;
 }
